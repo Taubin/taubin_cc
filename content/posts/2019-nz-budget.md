@@ -3,7 +3,7 @@ categories = ["NZ", "New Zealand"]
 date = 2019-05-28T12:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1459257831348-f0cdd359235f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDJ8fHxlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1459257831348-f0cdd359235f_.jpg"
 slug = "2019-nz-budget"
 tags = ["NZ", "New Zealand"]
 title = "2019 NZ Budget"

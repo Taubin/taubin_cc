@@ -3,7 +3,7 @@ categories = ["Ham Radio"]
 date = 2021-03-08T19:41:36Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1592582796181-cc84062c56ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDQxfHxhbnRlbm5hfGVufDB8fHw&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1592582796181-cc84062c56ef.jpg"
 slug = "zl2toy"
 tags = ["Ham Radio"]
 title = "ZL2TOY"

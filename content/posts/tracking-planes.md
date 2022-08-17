@@ -3,7 +3,7 @@ categories = ["RTL-SDR", "Planes"]
 date = 2019-01-07T11:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1515446808777-87f69cb475aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDE4fHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1515446808777-87f69cb475aa_.jpg"
 slug = "tracking-planes"
 tags = ["RTL-SDR", "Planes"]
 title = "Tracking Planes"

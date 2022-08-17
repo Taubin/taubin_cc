@@ -3,7 +3,7 @@ categories = ["HomeServer"]
 date = 2019-06-24T12:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1576124344805-c47cea66b0db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDZ8fHxlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1576124344805-c47cea66b0db_.jpg"
 slug = "containerize-all-the-things"
 tags = ["HomeServer"]
 title = "Containerize All the Things"

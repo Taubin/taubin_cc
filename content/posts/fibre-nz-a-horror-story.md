@@ -3,7 +3,7 @@ categories = ["Fibre", "Internet"]
 date = 2018-04-29T12:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1542951903-6b75c2b94727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDU4fHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1542951903-6b75c2b94727.jpg"
 slug = "fibre-nz-a-horror-story"
 tags = ["Fibre", "Internet"]
 title = "Fibre NZ a Horror Story"

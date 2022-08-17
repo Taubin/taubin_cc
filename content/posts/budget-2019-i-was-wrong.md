@@ -3,7 +3,7 @@ categories = ["NZ", "New Zealand"]
 date = 2019-05-29T12:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1504930268766-d71549a36ec2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDIxfHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1504930268766-d71549a36ec2_.jpg"
 slug = "budget-2019-i-was-wrong"
 tags = ["NZ", "New Zealand"]
 title = "Budget 2019 I Was Wrong"

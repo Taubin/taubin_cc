@@ -3,7 +3,7 @@ categories = ["Christmas"]
 date = 2018-12-24T11:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1545048702-79362596cdc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDJ8fHxlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1545048702-79362596cdc9_.jpg"
 slug = "merry-christmas"
 tags = ["Christmas"]
 title = "Merry Christmas"

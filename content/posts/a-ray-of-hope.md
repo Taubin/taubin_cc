@@ -3,7 +3,7 @@ categories = ["Fibre", "Internet"]
 date = 2018-06-15T12:00:00Z
 description = ""
 draft = false
-feature_image = "https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDR8fHxlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1470115636492-6d2b56f9146d.jpg"
 slug = "a-ray-of-hope"
 tags = ["Fibre", "Internet"]
 title = "A Ray of Hope"

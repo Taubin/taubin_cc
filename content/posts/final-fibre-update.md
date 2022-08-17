@@ -3,7 +3,7 @@ categories = ["Fibre", "Internet", "HomeServer"]
 date = 2019-04-01T11:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDEzfHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1496096265110-f83ad7f96608_.jpg"
 slug = "final-fibre-update"
 tags = ["Fibre", "Internet", "HomeServer"]
 title = "Final Fibre Update"

@@ -3,7 +3,7 @@ categories = ["Traefik", "Blog", "Server", "HomeServer"]
 date = 2020-01-09T11:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDMxfHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1584949091598-c31daaaa4aa9_.jpg"
 slug = "traefik-all-the-things"
 tags = ["Traefik", "Blog", "Server", "HomeServer"]
 title = "Traefik All the Things"

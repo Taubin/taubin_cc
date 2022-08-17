@@ -3,7 +3,7 @@ categories = ["CoolerMaster", "Scam", "Pi"]
 date = 2020-12-10T23:54:29Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1553406830-f6e44ac97624?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDE2fHxyYXNwYmVycnklMjBwaXxlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1553406830-f6e44ac97624_.jpg"
 slug = "coolermaster-pi-case-40"
 summary = "CoolerMaster Pi Case 40 - A case of buyer beware."
 tags = ["CoolerMaster", "Scam", "Pi"]

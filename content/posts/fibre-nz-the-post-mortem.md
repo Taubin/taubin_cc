@@ -3,7 +3,7 @@ categories = ["Fibre", "Internet"]
 date = 2018-05-13T12:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDV8fHxlbnwwfHx8&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "img/photo-1505751172876-fa1923c5c528.jpg"
 slug = "fibre-nz-the-post-mortem"
 tags = ["Fibre", "Internet"]
 title = "Fibre NZ the Post Mortem"

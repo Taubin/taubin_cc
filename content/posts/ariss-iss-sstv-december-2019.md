@@ -3,7 +3,7 @@ categories = ["ISS", "SSTV", "RTL-SDR"]
 date = 2019-12-29T11:00:00Z
 description = ""
 draft = false
-cover = "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDEzfHx8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000"
+cover = "/img/photo-1457365050282-c53d772ef8b2_.jpg"
 slug = "ariss-iss-sstv-december-2019"
 tags = ["ISS", "SSTV", "RTL-SDR"]
 title = "Ariss ISS SSTV December 2019"
