@@ -3,7 +3,7 @@ categories = ["ISS", "SSTV", "RTL-SDR"]
 date = 2019-12-29T11:00:00Z
 description = ""
 draft = false
-cover = "https://taubincc.b-cdn.net/img/photo-1457365050282-c53d772ef8b2_.jpg"
+cover = "https://static.taubin.cc/img/photo-1457365050282-c53d772ef8b2_.jpg"
 slug = "ariss-iss-sstv-december-2019"
 tags = ["ISS", "SSTV", "RTL-SDR"]
 title = "Ariss ISS SSTV December 2019"
@@ -15,7 +15,7 @@ From December 28th 2019 11:00 UTC to January 1st 2020 18:20 UTC the Internationa
 
 My wife and I spend our Christmas vacation in Christchurch, New Zealand with my in-laws usually. This provides some great chances for a nice very open view of the skies. They live in a rural area, and don’t have a lot of interference around. It’s quite great for star gazing as well as using an SDR to pull images from passing satellites.
 
-![](https://taubincc.b-cdn.net/2019-12-30/20191219_164047.jpg)
+![](https://static.taubin.cc/2019-12-30/20191219_164047.jpg)
 
 Nearest Neighbors
 
@@ -25,7 +25,7 @@ We pulled out the ISS Tracker app on my phone and took a look at the passes. The
 
 I pulled out my trusty laptop, dipole antenna and rtl-sdr dongle and set up on a chair. Then the waiting game began.
 
-![](https://taubincc.b-cdn.net/2019-12-30/20191229_172729.jpg)
+![](https://static.taubin.cc/2019-12-30/20191229_172729.jpg)
 
 The amazing set up. So professional!
 
@@ -33,13 +33,13 @@ I held my breath (literally) once the pass got high enough in the sky to possibl
 
 The ISS sends SSTV images in spurts. They are 3 minutes on, 2 minutes off. I was able to pull 1 and 1/2 images during the pass, and I’m very pleased how they turned out. I received image 3/15 in this pass, which you can see below. This image commemorates Sigmund Jähn and Valey Bykovsky, including images of both.
 
-![](https://taubincc.b-cdn.net/2019-12-30/201912290429.jpg)
+![](https://static.taubin.cc/2019-12-30/201912290429.jpg)
 
 ISS SSTV Commemorative image broadcast end of 2019
 
 I am very pleased with the image I was able to get, and the quality is quite good. One of the cool things about getting these images, is you are able to submit them to the ARISS SSTV team to get a reward certificate for participating. I submitted mine right after the pass, and received my certificate in my email quite quickly. I will also be sending in for a QSL card, which I’m very excited about. I’ll update once I send it out and once I get the card back. The certificate for participating is below. I was awarded number 150191.
 
-![](https://taubincc.b-cdn.net/2019-12-30/Diplome.png)
+![](https://static.taubin.cc/2019-12-30/Diplome.png)
 
 ARISS SSTV Award
 
