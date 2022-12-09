@@ -6,6 +6,8 @@ title = "fire"
 layout = "staticpage"
 +++
 
+#### [Back to Scanner Frequencies](/nzfrequencies)
+
 ------------------------------------------------------------------------
 
 |Frequency|Service|
