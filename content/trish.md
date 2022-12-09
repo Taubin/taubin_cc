@@ -1,6 +1,5 @@
 +++
 categories = ["Trish"]
-date = 2020-07-21T12:00:00Z
 description = ""
 draft = false
 slug = "trish"

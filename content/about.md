@@ -1,6 +1,5 @@
 +++
-date = 2020-12-04T22:21:20Z
-description = ""
+description = "About Me"
 draft = false
 slug = "about"
 title = "about"
