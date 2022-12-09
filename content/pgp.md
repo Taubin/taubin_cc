@@ -222,6 +222,3 @@ My PGP public key
             Ucog3LE1TDkbuKPJ04cluQm14Q==
             =EgWn
             -----END PGP PUBLIC KEY BLOCK-----
-
-
-
