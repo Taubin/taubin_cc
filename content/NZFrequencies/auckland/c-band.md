@@ -14,10 +14,15 @@ C band 449.75625-458.33125 MHz NFM separation 12.5 kHz\
 
 
 449.75625(CNX1)-449.99375(CNX20) Simplex\
+
 450.28125(CN1)-453.29375(CN242) Mobile TX\
+
 453.30625(CNX21)-453.61875(CNX46) Simplex\
+
 454.98125(CNX47)-455.30625(CNX73) Simplex\
+
 455.31875(CN1)-458.33125(CN242) Base TX\
+
 
 | Frequency |  Service |
 | ---| ---|
