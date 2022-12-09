@@ -1,12 +1,19 @@
-# NZ \\ Auckland \\ A-Band
++++
+description = "Auckland A Band"
+draft = false
+slug = "a-band"
+title = "a-band"
+layout = "staticpage"
 
++++
 
+#### [Back to Scanner Frequencies](/nzfrequencies)
 
-#### [Back to Scanner Frequencies](/nzfrequencies/auckland)
+# Auckland A-Band
 
 ------------------------------------------------------------------------
 
-A band 80.0000-88.0000 MHz AM/NFM separation 12.5 kHz\
+### A band 80.0000-88.0000 MHz AM/NFM separation 12.5 kHz
 
 80.0125(AX1)-80.5128(AX41) Simplex
 
@@ -21,4 +28,4 @@ A band 80.0000-88.0000 MHz AM/NFM separation 12.5 kHz\
 84.98125(A1)-87.99375(A242) Mobile TX
 
 
-#### [Back to Scanner Frequencies](/nzfrequencies/auckland)
+#### [Back to Scanner Frequencies](/nzfrequencies)

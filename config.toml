@@ -12,7 +12,7 @@ paginate = 10
   defaultTheme = "dark"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # Show reading time in minutes for posts
   showReadingTime = false
@@ -70,5 +70,5 @@ paginate = 10
       [[languages.en.menu.main]]
         identifier = "scannerfreq"
         name = "NZ Scanner Frequencies"
-        url = "/nzfreq"
+        url = "/nzfrequencies"
         weight = 3

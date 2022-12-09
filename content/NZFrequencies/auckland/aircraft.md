@@ -1,6 +1,13 @@
-# NZ \\ Auckland \\ Aircraft
++++
+description = "Auckland Aircraft Frequencies"
+draft = false
+slug = "aircraft"
+title = "Auckland aircraft"
+layout = "staticpage"
 
-#### [Back to Scanner Frequencies](/nzfrequencies/auckland)
++++
+
+#### [Back to Scanner Frequencies](/nzfrequencies)
 
 ## Airport Frequencies
 
