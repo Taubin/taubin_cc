@@ -1,11 +1,12 @@
 +++
-description = "Auckland C-Band"
+description = "c-band"
 draft = false
 slug = "c-band"
-title = "Auckland C-Band"
+title = "c-Band"
 layout = "staticpage"
 +++
-#### [Back to Scanner Frequencies](/scannerfreq)
+
+#### [Back to Scanner Frequencies](/nzfrequencies)
 
 ------------------------------------------------------------------------
 
@@ -130,4 +131,4 @@ C band 449.75625-458.33125 MHz NFM separation 12.5 kHz\
 |458.2750|unknown_id|
 |458.3000|Western Cabs \[Taxi\]|
 
-#### [Backto Scanner Frequencies](/scannerfreq)
+#### [Back to Scanner Frequencies](/nzfrequencies)

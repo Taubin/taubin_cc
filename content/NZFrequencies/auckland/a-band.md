@@ -1,5 +1,5 @@
 +++
-description = "Auckland A Band"
+description = "Auckland a band"
 draft = false
 slug = "a-band"
 title = "a-band"
