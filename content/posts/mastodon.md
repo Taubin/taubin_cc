@@ -30,4 +30,4 @@ Now let me be clear, I (and may others) have no problem paying for content. In f
 
 Due to all of that, I have removed everything from my reddit account, and no longer interact with the site at all. Instead I have moved over to my own personal Lemmy instance. The nice thing is I can interact with other instances, using my own account on my own server, thanks to federation. The same thing that allows me to chat with other instances on my Matrix server.
 
-So if you want to look for me, don't look on reddit, don't look on twitter, intead look for me on Lemmy, [on Mastodon](https://mastodon.social/@taubin) or even [on Matrix](@taubin:matrix.taubin.cc). I'm loving the fediverse so far, and will continue to use it as my main driver for everything social.
+So if you want to look for me, don't look on reddit, don't look on twitter, intead look for me on Lemmy, [on Mastodon](https://mastodon.social/@taubin) or even [on Matrix](https://matrix.to/#/@taubin:matrix.taubin.cc). I'm loving the fediverse so far, and will continue to use it as my main driver for everything social.
