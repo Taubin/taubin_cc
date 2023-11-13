@@ -4,5 +4,5 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-  Content-Security-Policy:  default-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'; base-uri 'self'; connect-src 'self'; font-src 'self'; frame-src 'self'; img-src 'self' '*.taubin.cc'; manifest-src 'self'; media-src 'self'; worker-src 'none';
+  Content-Security-Policy:  default-src 'self' taubin.cc; img-src 'self' https: static.taubin.cc *; object-src 'none'; form-action 'self'; base-uri 'self' taubin.cc pages.dev;
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
