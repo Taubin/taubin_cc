@@ -4,5 +4,5 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-  Content-Security-Policy: script-src 'self' "*.google.com" "*.googlesyncdication.com" "ajax.cloudflare.com" "'unsafe-inline'"; img-src 'self' "static.taubin.cc" "*.taubin.cc" "*.cloudfront.net"; connect-src: 'self'  "ajax.cloudflare.com" "*.adservice.google.*" "*.google.com" "*.googlesyncdication.com"; img-src: 'self' 'data:' "static.taubin.cc"; "*.taubin.cc" '*.cloudfront.net' '*.googlesyncdication.com'; script-src-attr: 'self' ; style-src: 'self' "'unsafe-inline'""style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+  Content-Security-Policy: script-src 'self' "*.google.com" "*.googlesyncdication.com" "ajax.cloudflare.com" "'unsafe-inline'"; img-src 'self' "https://static.taubin.cc/*" "*.taubin.cc" "*.cloudfront.net"; script-src-attr: 'self' ; style-src: 'self' "'unsafe-inline'""style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
