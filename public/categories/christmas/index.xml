@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christmas on Taubin dot CC</title>
+    <link>http://localhost:1313/categories/christmas/</link>
+    <description>Recent content in Christmas on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Mon, 24 Dec 2018 11:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/christmas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merry Christmas</title>
+      <link>http://localhost:1313/posts/merry-christmas/</link>
+      <pubDate>Mon, 24 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/merry-christmas/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Merry Christmas&lt;/p&gt;
+&lt;p&gt;I hope you have a Merry Christmas 🎄 and a Happy New Year wherever you are reading this. Have a safe and happy holiday season. Cheers!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ham Radio on Taubin dot CC</title>
+    <link>http://localhost:1313/categories/ham-radio/</link>
+    <description>Recent content in Ham Radio on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Mon, 08 Mar 2021 19:41:36 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZL2TOY</title>
+      <link>http://localhost:1313/posts/zl2toy/</link>
+      <pubDate>Mon, 08 Mar 2021 19:41:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/zl2toy/</guid>
+      <description>
+        
+          
+            &lt;h3 id=&#34;zl2toy-what-is-that&#34;&gt;ZL2TOY What is that?&lt;/h3&gt;
+&lt;p&gt;ZL2TOY is a ham radio callsign. In fact it&#39;s not just any callsign, it&#39;s my father-in-laws former callsign and &lt;a href=&#34;https://www.qrz.com/db/ZL2TOY&#34;&gt;my current&lt;/a&gt; amateur radio operator callsign. After years of threating to do it, I finally went to a Ham Cram weekend and took the test to become an officially licensed operator. I have been threatening to do it for nearly 2 years now, and finally did it.&lt;/p&gt;
+&lt;p&gt;The ham cram weekend was very intense. It was two days of constant instruction on everything from procedure and laws, to electronics and making antennas. The instructors are all volunteers and did an amazing job of teaching us everything we needed to know to pass the 60 question test. A passing score of 40 out of 60 was needed and out of the 13 of us that took the test (nearly a record number of students for Club 29) all 13 passed!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

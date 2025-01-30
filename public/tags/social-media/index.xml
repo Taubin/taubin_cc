@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media on Taubin dot CC</title>
+    <link>http://localhost:1313/tags/social-media/</link>
+    <description>Recent content in Social Media on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Mon, 03 Jul 2023 14:52:17 +1200</lastBuildDate><atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The social media demise</title>
+      <link>http://localhost:1313/posts/mastodon/</link>
+      <pubDate>Mon, 03 Jul 2023 14:52:17 +1200</pubDate>
+      
+      <guid>http://localhost:1313/posts/mastodon/</guid>
+      <description>
+        
+          
+            &lt;h3 id=&#34;moving-to-mastodon-from-twitter&#34;&gt;Moving to Mastodon from twitter&lt;/h3&gt;
+&lt;p&gt;Well, the time has come. I&#39;ve decided it&#39;s time to move on from twitter, with all of their latest bs. You have to be logged in to see anyone, you are limited to viewing 600 tweets, not to mentiona all of the political crap that is going on with the owner. Pesonally I don&#39;t care who owns what (for the most part), but some of those actions can be detrimental to others, and that&#39;s what has happened here.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

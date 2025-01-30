@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planes on Taubin dot CC</title>
+    <link>http://localhost:1313/tags/planes/</link>
+    <description>Recent content in Planes on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 11:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/planes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking Planes</title>
+      <link>http://localhost:1313/posts/tracking-planes/</link>
+      <pubDate>Mon, 07 Jan 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tracking-planes/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;tracking-some-planes--using-an-sdr-and-homemade-antenna&#34;&gt;Tracking some planes 🛩️ using an SDR and homemade antenna&lt;/h2&gt;
+&lt;p&gt;Over Christmas this past season, I spent quite a bit of time with my in-laws. While down there my father in law mentioned he was having issues getting his RTL-SDR dongle to work properly on his new laptop, and asked if I could help. For those not aware, RTL-SDR stands for RTL Software Defined Radio. They have been extremely popular for a long time for not only pulling in analog TV signals, but also tracking planes.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

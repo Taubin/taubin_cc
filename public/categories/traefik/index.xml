@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traefik on Taubin dot CC</title>
+    <link>http://localhost:1313/categories/traefik/</link>
+    <description>Recent content in Traefik on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Thu, 09 Jan 2020 11:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/traefik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traefik All the Things</title>
+      <link>http://localhost:1313/posts/traefik-all-the-things/</link>
+      <pubDate>Thu, 09 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/traefik-all-the-things/</guid>
+      <description>
+        
+          
+            &lt;p&gt;If you followed my &lt;a href=&#34;../../../../2019/06/25/containerize-all-the-things/index.html&#34;&gt;Containerize All the Things&lt;/a&gt; post, you know I’ve moved my entire home server workflow to Docker. There were a few reasons for this, but most of all because it made it incredibly easy to move everything or have everything backed up in case of a catastrophic failure of some sort. After all, my hard drives are quite old and have been running hard out.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_external image_processed&#34;
+        width=&#34;1235&#34;
+        height=&#34;648&#34;
+        src=&#34;http://localhost:1313/images/drive_age_14100850929674511459.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fibre on Taubin dot CC</title>
+    <link>http://localhost:1313/tags/fibre/</link>
+    <description>Recent content in Fibre on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 11:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fibre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Fibre Update</title>
+      <link>http://localhost:1313/posts/final-fibre-update/</link>
+      <pubDate>Mon, 01 Apr 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/final-fibre-update/</guid>
+      <description>
+        
+          
+            &lt;p&gt;I realized today that I hadn’t given an update on my fibre saga in quite some time. After going back and forth with BigPipe, I ended up cancelling their service as was shown in a previous post. There were quite a few reasons for this, however the biggest one was them removing IPV6, as well as not being upfront about the issues I was having with the fibre installation. I moved to &lt;a href=&#34;https://voyager.nz&#34;&gt;Voyager&lt;/a&gt; after doing quite a bit of searching on geekzone. The service with them has been outstanding so far, with zero issues.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>A Ray of Hope</title>
+      <link>http://localhost:1313/posts/a-ray-of-hope/</link>
+      <pubDate>Fri, 15 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-ray-of-hope/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Wait, a ray of hope? What? But, I thought this dream was over? Alas my good reader, it’s not. Thanks to the people at the Chorus NZ twitter account, I’ve been given some hope. A beam of light in the darkness.&lt;/p&gt;
+&lt;p&gt;This is the email I received:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hi Dustin,&lt;/p&gt;
+&lt;p&gt;I am from UCG – We are the service partner for Chorus – the provider of Ultra-Fast Broadband infrastructure as part of national fibre deployment initiated by the government.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Fibre NZ the Post Mortem</title>
+      <link>http://localhost:1313/posts/fibre-nz-the-post-mortem/</link>
+      <pubDate>Sun, 13 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fibre-nz-the-post-mortem/</guid>
+      <description>
+        
+          
+            &lt;p&gt;This is it, the end. It’s all over, nothing more to say about it. The dream has ended. After dealing with this abysmal process for a month, I’ve given up. Being told time and again, that this is an “easy process” and everything will be smooth, I’m now told by BigPipe they don’t have any updates. That’s fine, I’m over.&lt;/p&gt;
+&lt;p&gt;But what’s this? A new email from BigPipe! Maybe it’s good news! Let’s have a read:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Fibre NZ a Horror Story</title>
+      <link>http://localhost:1313/posts/fibre-nz-a-horror-story/</link>
+      <pubDate>Sun, 29 Apr 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fibre-nz-a-horror-story/</guid>
+      <description>
+        
+          
+            &lt;p&gt;I’ve been living here in New Zealand for about 7 years now. In that time I’ve found a lot to love, and some to hate. Unfortunately, this story is about something that’s turned into a hate. Welcome to Fibre NZ: A Horror Story (in X parts since it’s ongoing).&lt;/p&gt;
+&lt;p&gt;One of the things I’ve been most excited about since moving to New Zealand, is their truly world class broadband. Most places in New Zealand, at least the most populated places, you are able to get Fibre to the Home (or FTTH). This is much different than the Fibre to the Node implimentation in places like Australia. A short commercial for Chorus and their FTTH spiel is below.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

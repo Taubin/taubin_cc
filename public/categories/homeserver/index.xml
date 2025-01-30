@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HomeServer on Taubin dot CC</title>
+    <link>http://localhost:1313/categories/homeserver/</link>
+    <description>Recent content in HomeServer on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Thu, 09 Jan 2020 11:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/homeserver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traefik All the Things</title>
+      <link>http://localhost:1313/posts/traefik-all-the-things/</link>
+      <pubDate>Thu, 09 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/traefik-all-the-things/</guid>
+      <description>
+        
+          
+            &lt;p&gt;If you followed my &lt;a href=&#34;../../../../2019/06/25/containerize-all-the-things/index.html&#34;&gt;Containerize All the Things&lt;/a&gt; post, you know I’ve moved my entire home server workflow to Docker. There were a few reasons for this, but most of all because it made it incredibly easy to move everything or have everything backed up in case of a catastrophic failure of some sort. After all, my hard drives are quite old and have been running hard out.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_external image_processed&#34;
+        width=&#34;1235&#34;
+        height=&#34;648&#34;
+        src=&#34;http://localhost:1313/images/drive_age_14100850929674511459.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Containerize All the Things</title>
+      <link>http://localhost:1313/posts/containerize-all-the-things/</link>
+      <pubDate>Mon, 24 Jun 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/containerize-all-the-things/</guid>
+      <description>
+        
+          
+            &lt;p&gt;For quite a while, our house has used a server to host all of our media as well as some other items. There are a great many advantages to this, as it allows easy control over our movies, TV, music, comics, eBooks etc… Ever since the server was first built (it’s actually my old computer), it has run Windows 10 pro. There is nothing implicitly wrong with this, however Windows can be quite a resource hog. Just having it sit at the desktop, without much else running uses a couple of gigs of ram, as well as a bit of power to push the desktop even though it’s not actually being used.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Final Fibre Update</title>
+      <link>http://localhost:1313/posts/final-fibre-update/</link>
+      <pubDate>Mon, 01 Apr 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/final-fibre-update/</guid>
+      <description>
+        
+          
+            &lt;p&gt;I realized today that I hadn’t given an update on my fibre saga in quite some time. After going back and forth with BigPipe, I ended up cancelling their service as was shown in a previous post. There were quite a few reasons for this, however the biggest one was them removing IPV6, as well as not being upfront about the issues I was having with the fibre installation. I moved to &lt;a href=&#34;https://voyager.nz&#34;&gt;Voyager&lt;/a&gt; after doing quite a bit of searching on geekzone. The service with them has been outstanding so far, with zero issues.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

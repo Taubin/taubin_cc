@@ -1,0 +1,10 @@
+/*
+  X-Frame-Options: DENY
+  X-Clacks-Overhead: "GNU Terry Pratchett"
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  Content-Security-Policy: default-src 'self'; script-src 'self' ajax.cloudflare.com static.cloudflareinsights.com  pages.dev *.taubin.cc; img-src 'self' static.taubin.cc *.taubin.cc *.cloudfront.net; style-src 'self' *.taubin.cc *.pages.dev *.cloudfront.net
+  Strict-Transport-Security: max-age=63072000;includeSubDomains; preload
+  Permissions-Policy: geolocation=(); notifications=(); push=(); fullscreen=(self)
+  upgrade-insecure-requests

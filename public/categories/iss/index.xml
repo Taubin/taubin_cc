@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISS on Taubin dot CC</title>
+    <link>http://localhost:1313/categories/iss/</link>
+    <description>Recent content in ISS on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 11:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/iss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ariss ISS SSTV December 2019</title>
+      <link>http://localhost:1313/posts/ariss-iss-sstv-december-2019/</link>
+      <pubDate>Sun, 29 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ariss-iss-sstv-december-2019/</guid>
+      <description>
+        
+          
+            &lt;p&gt;From December 28th 2019 11:00 UTC to January 1st 2020 18:20 UTC the International Space Station did a commemorative SSTV broadcast for 3 Russian Cosmonauts that died this year. Those three are &lt;a href=&#34;https://en.wikipedia.org/wiki/Alexei_Leonov&#34;&gt;Alexi Leonov&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Valery_Bykovsky&#34;&gt;Valery Bykovsky&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Sigmund_J%C3%A4hn&#34;&gt;Sigmund Jähn&lt;/a&gt;. I was lucky enough to be able to pull an image from the broadcast.&lt;/p&gt;
+&lt;p&gt;My wife and I spend our Christmas vacation in Christchurch, New Zealand with my in-laws usually. This provides some great chances for a nice very open view of the skies. They live in a rural area, and don’t have a lot of interference around. It’s quite great for star gazing as well as using an SDR to pull images from passing satellites.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

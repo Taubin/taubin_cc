@@ -1,0 +1,25 @@
+baseurl = "https://taubin.cc/"  # Include trailing slash
+# title = "Clarity"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
+copyright = "Copyright © 2020 - 2025 Dusty"
+# canonifyurls = true
+
+theme = ["github.com/chipzoller/hugo-clarity"]
+disqusShortname = ""
+
+DefaultContentLanguage = "en"
+# [languages]
+# config/_default/languages.toml
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 10

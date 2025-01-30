@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taubin dot CC</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Taubin dot CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020 - 2025 Dusty</copyright>
+    <lastBuildDate>Mon, 03 Jul 2023 14:52:17 +1200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The social media demise</title>
+      <link>http://localhost:1313/posts/mastodon/</link>
+      <pubDate>Mon, 03 Jul 2023 14:52:17 +1200</pubDate>
+      
+      <guid>http://localhost:1313/posts/mastodon/</guid>
+      <description>
+        
+          
+            &lt;h3 id=&#34;moving-to-mastodon-from-twitter&#34;&gt;Moving to Mastodon from twitter&lt;/h3&gt;
+&lt;p&gt;Well, the time has come. I&#39;ve decided it&#39;s time to move on from twitter, with all of their latest bs. You have to be logged in to see anyone, you are limited to viewing 600 tweets, not to mentiona all of the political crap that is going on with the owner. Pesonally I don&#39;t care who owns what (for the most part), but some of those actions can be detrimental to others, and that&#39;s what has happened here.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>ZL2TOY</title>
+      <link>http://localhost:1313/posts/zl2toy/</link>
+      <pubDate>Mon, 08 Mar 2021 19:41:36 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/zl2toy/</guid>
+      <description>
+        
+          
+            &lt;h3 id=&#34;zl2toy-what-is-that&#34;&gt;ZL2TOY What is that?&lt;/h3&gt;
+&lt;p&gt;ZL2TOY is a ham radio callsign. In fact it&#39;s not just any callsign, it&#39;s my father-in-laws former callsign and &lt;a href=&#34;https://www.qrz.com/db/ZL2TOY&#34;&gt;my current&lt;/a&gt; amateur radio operator callsign. After years of threating to do it, I finally went to a Ham Cram weekend and took the test to become an officially licensed operator. I have been threatening to do it for nearly 2 years now, and finally did it.&lt;/p&gt;
+&lt;p&gt;The ham cram weekend was very intense. It was two days of constant instruction on everything from procedure and laws, to electronics and making antennas. The instructors are all volunteers and did an amazing job of teaching us everything we needed to know to pass the 60 question test. A passing score of 40 out of 60 was needed and out of the 13 of us that took the test (nearly a record number of students for Club 29) all 13 passed!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>CoolerMaster Pi Case 40</title>
+      <link>http://localhost:1313/posts/coolermaster-pi-case-40/</link>
+      <pubDate>Thu, 10 Dec 2020 23:54:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/coolermaster-pi-case-40/</guid>
+      <description>
+        
+          
+            CoolerMaster Pi Case 40 - A case of buyer beware.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Traefik All the Things</title>
+      <link>http://localhost:1313/posts/traefik-all-the-things/</link>
+      <pubDate>Thu, 09 Jan 2020 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/traefik-all-the-things/</guid>
+      <description>
+        
+          
+            &lt;p&gt;If you followed my &lt;a href=&#34;../../../../2019/06/25/containerize-all-the-things/index.html&#34;&gt;Containerize All the Things&lt;/a&gt; post, you know I’ve moved my entire home server workflow to Docker. There were a few reasons for this, but most of all because it made it incredibly easy to move everything or have everything backed up in case of a catastrophic failure of some sort. After all, my hard drives are quite old and have been running hard out.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_external image_processed&#34;
+        width=&#34;1235&#34;
+        height=&#34;648&#34;
+        src=&#34;http://localhost:1313/images/drive_age_14100850929674511459.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Ariss ISS SSTV December 2019</title>
+      <link>http://localhost:1313/posts/ariss-iss-sstv-december-2019/</link>
+      <pubDate>Sun, 29 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ariss-iss-sstv-december-2019/</guid>
+      <description>
+        
+          
+            &lt;p&gt;From December 28th 2019 11:00 UTC to January 1st 2020 18:20 UTC the International Space Station did a commemorative SSTV broadcast for 3 Russian Cosmonauts that died this year. Those three are &lt;a href=&#34;https://en.wikipedia.org/wiki/Alexei_Leonov&#34;&gt;Alexi Leonov&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Valery_Bykovsky&#34;&gt;Valery Bykovsky&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Sigmund_J%C3%A4hn&#34;&gt;Sigmund Jähn&lt;/a&gt;. I was lucky enough to be able to pull an image from the broadcast.&lt;/p&gt;
+&lt;p&gt;My wife and I spend our Christmas vacation in Christchurch, New Zealand with my in-laws usually. This provides some great chances for a nice very open view of the skies. They live in a rural area, and don’t have a lot of interference around. It’s quite great for star gazing as well as using an SDR to pull images from passing satellites.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Containerize All the Things</title>
+      <link>http://localhost:1313/posts/containerize-all-the-things/</link>
+      <pubDate>Mon, 24 Jun 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/containerize-all-the-things/</guid>
+      <description>
+        
+          
+            &lt;p&gt;For quite a while, our house has used a server to host all of our media as well as some other items. There are a great many advantages to this, as it allows easy control over our movies, TV, music, comics, eBooks etc… Ever since the server was first built (it’s actually my old computer), it has run Windows 10 pro. There is nothing implicitly wrong with this, however Windows can be quite a resource hog. Just having it sit at the desktop, without much else running uses a couple of gigs of ram, as well as a bit of power to push the desktop even though it’s not actually being used.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Budget 2019 I Was Wrong</title>
+      <link>http://localhost:1313/posts/budget-2019-i-was-wrong/</link>
+      <pubDate>Wed, 29 May 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/budget-2019-i-was-wrong/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@neonbrand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;NeONBRAND&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/search/photos/mistake?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I admit it, I was wrong. In my &lt;a href=&#34;__GHOST_URL__/2019/05/29/2019-nz-budget/&#34;&gt;last post&lt;/a&gt;, I wrote about how in-probable it was that the 2019 NZ Budget hack was just due to someone using the search engine on the website. Well I was wrong. I had expected the IT team at the NZ Treasury to have at least a little bit of competence. Sadly the seem to be &lt;a href=&#34;https://www.rnz.co.nz/news/political/390846/budget-breach-didn-t-break-the-law-treasury&#34;&gt;incredibly incompetent&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The hack at the Treasury was in fact due to someone searching for the document, and finding it. I am utterly flabbergasted at how the Treasury department handled everything to do with this. Now this certainly does not absolve National of their handling of everything either, but again I am not political and I’m not going to get into that.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>2019 NZ Budget</title>
+      <link>http://localhost:1313/posts/2019-nz-budget/</link>
+      <pubDate>Tue, 28 May 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-nz-budget/</guid>
+      <description>
+        
+          
+            &lt;p&gt;There has been a whole lot happening here in NZ in the past 24 or so hours. You see the 2019 budget for NZ is meant to be released tomorrow (Thursday), but was apparently leaked by the opposition party on Tuesday. This has led to a lot of speculation, name calling, threats, police reports, etc… You know typical politics.&lt;/p&gt;
+&lt;p&gt;Now normally I wouldn’t care about this at all, and certainly wouldn’t write about it here. The thing is, anyone that knows me knows I don’t really care for politics. I never discuss it and don’t follow any of the parties. That said I do vote, but not even my wife knows (or cares) who I vote for.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Final Fibre Update</title>
+      <link>http://localhost:1313/posts/final-fibre-update/</link>
+      <pubDate>Mon, 01 Apr 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/final-fibre-update/</guid>
+      <description>
+        
+          
+            &lt;p&gt;I realized today that I hadn’t given an update on my fibre saga in quite some time. After going back and forth with BigPipe, I ended up cancelling their service as was shown in a previous post. There were quite a few reasons for this, however the biggest one was them removing IPV6, as well as not being upfront about the issues I was having with the fibre installation. I moved to &lt;a href=&#34;https://voyager.nz&#34;&gt;Voyager&lt;/a&gt; after doing quite a bit of searching on geekzone. The service with them has been outstanding so far, with zero issues.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Tracking Planes</title>
+      <link>http://localhost:1313/posts/tracking-planes/</link>
+      <pubDate>Mon, 07 Jan 2019 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/tracking-planes/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;tracking-some-planes--using-an-sdr-and-homemade-antenna&#34;&gt;Tracking some planes 🛩️ using an SDR and homemade antenna&lt;/h2&gt;
+&lt;p&gt;Over Christmas this past season, I spent quite a bit of time with my in-laws. While down there my father in law mentioned he was having issues getting his RTL-SDR dongle to work properly on his new laptop, and asked if I could help. For those not aware, RTL-SDR stands for RTL Software Defined Radio. They have been extremely popular for a long time for not only pulling in analog TV signals, but also tracking planes.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Merry Christmas</title>
+      <link>http://localhost:1313/posts/merry-christmas/</link>
+      <pubDate>Mon, 24 Dec 2018 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/merry-christmas/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Merry Christmas&lt;/p&gt;
+&lt;p&gt;I hope you have a Merry Christmas 🎄 and a Happy New Year wherever you are reading this. Have a safe and happy holiday season. Cheers!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>A Ray of Hope</title>
+      <link>http://localhost:1313/posts/a-ray-of-hope/</link>
+      <pubDate>Fri, 15 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-ray-of-hope/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Wait, a ray of hope? What? But, I thought this dream was over? Alas my good reader, it’s not. Thanks to the people at the Chorus NZ twitter account, I’ve been given some hope. A beam of light in the darkness.&lt;/p&gt;
+&lt;p&gt;This is the email I received:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hi Dustin,&lt;/p&gt;
+&lt;p&gt;I am from UCG – We are the service partner for Chorus – the provider of Ultra-Fast Broadband infrastructure as part of national fibre deployment initiated by the government.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Fibre NZ the Post Mortem</title>
+      <link>http://localhost:1313/posts/fibre-nz-the-post-mortem/</link>
+      <pubDate>Sun, 13 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fibre-nz-the-post-mortem/</guid>
+      <description>
+        
+          
+            &lt;p&gt;This is it, the end. It’s all over, nothing more to say about it. The dream has ended. After dealing with this abysmal process for a month, I’ve given up. Being told time and again, that this is an “easy process” and everything will be smooth, I’m now told by BigPipe they don’t have any updates. That’s fine, I’m over.&lt;/p&gt;
+&lt;p&gt;But what’s this? A new email from BigPipe! Maybe it’s good news! Let’s have a read:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Fibre NZ a Horror Story</title>
+      <link>http://localhost:1313/posts/fibre-nz-a-horror-story/</link>
+      <pubDate>Sun, 29 Apr 2018 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fibre-nz-a-horror-story/</guid>
+      <description>
+        
+          
+            &lt;p&gt;I’ve been living here in New Zealand for about 7 years now. In that time I’ve found a lot to love, and some to hate. Unfortunately, this story is about something that’s turned into a hate. Welcome to Fibre NZ: A Horror Story (in X parts since it’s ongoing).&lt;/p&gt;
+&lt;p&gt;One of the things I’ve been most excited about since moving to New Zealand, is their truly world class broadband. Most places in New Zealand, at least the most populated places, you are able to get Fibre to the Home (or FTTH). This is much different than the Fibre to the Node implimentation in places like Australia. A short commercial for Chorus and their FTTH spiel is below.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Like a Sucker Punch out of Left Field</title>
+      <link>http://localhost:1313/posts/like-a-sucker-punch-out-of-left-field/</link>
+      <pubDate>Wed, 15 Mar 2017 11:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/like-a-sucker-punch-out-of-left-field/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;like-a-sucker-punch-out-of-left-field&#34;&gt;Like a sucker punch out of left field&lt;/h1&gt;
+&lt;p&gt;Something has been bothering me a lot lately. I couldn’t quite put my finger on it. I haven’t been sleeping well lately (which isn’t really that unusual), I’ve been scatterbrained (again, not that unusual) and really just couldn’t concentrate on anything. It really bugged me that I couldn’t quite put my finger on it. Anyone that knows me, knows I’m not one to talk about my feelings at all, good or bad. It just isn’t me, which is totally fine, seriously! I’m an
+introvert when it comes to myself, that’s just how it is.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
