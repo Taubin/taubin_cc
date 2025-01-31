@@ -1,5 +1,4 @@
-# Hugo test for blog before pushing to main
+# Hugo blog pushed to cf pages  
 
-This is a test repo for changes to my blog site prior to me pushing them to main.
+This is the main hugo repo for [my blog](https://taubin.cc/)
 
-This is not the main repo and is only used for testing.
